@@ -68,7 +68,7 @@ class Main{
         }
     }
 
-
+    
     // public static void writeByteArrToFile(byte[] data) throws FileNotFoundException, IOException{
     //     try (FileOutputStream out = new FileOutputStream(ENCRYPT_FILE)) {
     //         out.write(data);
